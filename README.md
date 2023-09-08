@@ -14,7 +14,7 @@ This programm is a part of the IU university sql data mart course.
 
 Before using the Data Mart, ensure that you have the following software installed on your operating system:
 
-- **PostgreSQL Database:** This system relies on a PostgreSQL database for data storage and retrieval. You must have PostgreSQL installed on your system. You can download and install PostgreSQL from the [official website](https://www.postgresql.org/download/).
+- **PostgreSQL Database:** This system relies on a PostgreSQL database for data storage and retrieval. You must have PostgreSQL installed on your system. You can download and install PostgreSQL from the [here](https://www.postgresql.org/download/).
 
 - **pgAdmin (Optional):** While not mandatory, using a tool like pgAdmin can greatly simplify database management tasks. You can download pgAdmin from [here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
 

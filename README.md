@@ -2,7 +2,7 @@
 
 ## Overview
 This project represents a comprehensive database management system designed for an Airbnb-like reservation platform. It includes tables, relationships, and queries to facilitate the smooth operation of such a platform.
-![ERM](Database ER diagram (crow's foot).png
+![ERM](Database ER diagram (crow's foot).png)
 
 ## Table of Contents 
 1. [Prerequisites](#prerequisites)

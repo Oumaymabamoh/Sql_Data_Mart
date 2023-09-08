@@ -3,12 +3,12 @@
 ## Overview
 This project represents a comprehensive database management system designed for an Airbnb-like reservation platform. It includes tables, relationships, and queries to facilitate the smooth operation of such a platform.
 
-![ERM](Conception_Phase/Database ER diagram (crow's foot).png)
+![ERM](Conception_Phase/Database%20ER%20diagram%20(crow's%20foot).png)
 
 ## Table of Contents 
 1. [Prerequisites](#prerequisites)
 2. [Setup](#setup)
-3. 
+
 ## Prerequisites
 
 Before using the Data Mart, ensure that you have the following software installed on your operating system:

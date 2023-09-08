@@ -16,7 +16,7 @@ Before using the Data Mart, ensure that you have the following software installe
 
 - **PostgreSQL Database:** This system relies on a PostgreSQL database for data storage and retrieval. You must have PostgreSQL installed on your system. You can download and install PostgreSQL from the [here](https://www.postgresql.org/download/).
 
-- **pgAdmin (Optional):** While not mandatory, using a tool like pgAdmin can greatly simplify database management tasks. You can download pgAdmin from [here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
+- **pgAdmin:** While not mandatory, using a tool like pgAdmin can greatly simplify database management tasks. You can download pgAdmin from [here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
 
 Once you have these prerequisites in place, you can proceed with setting up and using the Data Mart as described in the [Setup Instructions](#setup) section.
 

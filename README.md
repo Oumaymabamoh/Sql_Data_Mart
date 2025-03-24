@@ -2,7 +2,6 @@
 
 ## Overview
 This project represents a comprehensive database management system designed for an Airbnb-like reservation platform. It includes tables, relationships, and queries to facilitate the smooth operation of such a platform.
-This programm is a part of the IU university sql data mart course.
 
 ![ERM](Conception_Phase/Database%20ER%20diagram%20(crow's%20foot).png)
 
